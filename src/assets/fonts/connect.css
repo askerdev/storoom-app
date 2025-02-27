@@ -1,0 +1,111 @@
+@font-face {
+  font-style: normal;
+  font-weight: 100;
+  src: url("Cygre-Thin.ttf");
+  font-family: Cygre;
+}
+
+@font-face {
+  font-style: italic;
+  font-weight: 100;
+  src: url("Cygre-ThinIt.ttf");
+  font-family: Cygre;
+}
+
+@font-face {
+  font-style: normal;
+  font-weight: 300;
+  src: url("Cygre-Light.ttf");
+  font-family: Cygre;
+}
+
+@font-face {
+  font-style: italic;
+  font-weight: 300;
+  src: url("Cygre-LightIt.ttf");
+  font-family: Cygre;
+}
+
+@font-face {
+  font-style: normal;
+  font-weight: 400;
+  src: url("Cygre-Regular.ttf");
+  font-family: Cygre;
+}
+
+@font-face {
+  font-style: italic;
+  font-weight: 400;
+  src: url("Cygre-RegularIt.ttf");
+  font-family: Cygre;
+}
+
+@font-face {
+  font-style: normal;
+  font-weight: 500;
+  src: url("Cygre-Medium.ttf");
+  font-family: Cygre;
+}
+
+@font-face {
+  font-style: italic;
+  font-weight: 500;
+  src: url("Cygre-MediumIt.ttf");
+  font-family: Cygre;
+}
+
+@font-face {
+  font-style: normal;
+  font-weight: 600;
+  src: url("Cygre-SemiBold.ttf");
+  font-family: Cygre;
+}
+
+@font-face {
+  font-style: italic;
+  font-weight: 600;
+  src: url("Cygre-SemiBoldIt.ttf");
+  font-family: Cygre;
+}
+
+@font-face {
+  font-style: normal;
+  font-weight: 700;
+  src: url("Cygre-Bold.ttf");
+  font-family: Cygre;
+}
+
+@font-face {
+  font-style: italic;
+  font-weight: 700;
+  src: url("Cygre-BoldIt.ttf");
+  font-family: Cygre;
+}
+
+@font-face {
+  font-style: normal;
+  font-weight: 800;
+  src: url("Cygre-ExtraBold.ttf");
+  font-family: Cygre;
+}
+
+@font-face {
+  font-style: italic;
+  font-weight: 800;
+  src: url("Cygre-ExtraBoldIt.ttf");
+  font-family: Cygre;
+}
+
+@font-face {
+  font-style: normal;
+  font-weight: 900;
+  src: url("Cygre-Black.ttf");
+  font-family: Cygre;
+}
+
+@font-face {
+  font-style: italic;
+  font-weight: 900;
+  src: url("Cygre-BlackIt.ttf");
+  font-family: Cygre;
+}
